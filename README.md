@@ -2,5 +2,5 @@
 
 Project 1 - Interactive Website made for Children
 
-Made using P5.js and Adobe Illustrator
+Made using Adobe Illustrator and P5.js
 
